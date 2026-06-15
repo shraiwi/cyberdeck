@@ -1,6 +1,9 @@
-# Getting Started
-### 1. Flashing the SD Card
-Ensure you have an SD card that is A1 rated and at lesat 64GB. Download Rufus and use it to flash RockNix onto it.
+# Connecting to Wifi + SSH
+### 1. Start -> Network Settings -> Wifi SSD and Wifi Key. Once it is connected, the IP address will appear at the top
+### 2. Ensure your computer is connected to the same network. In the terminal
+```bash
+ssh report@insertipaddress
+```
 
 # Theme Editing
 
