@@ -7,6 +7,7 @@ Ensure you have an SD card that is A1 rated and at lesat 64GB. Download Rufus an
 ### 1. Create the Theme Folder
 Follow the RetroPie EmulationStation theme guide:
 https://retropie.org.uk/docs/Creating-Your-Own-EmulationStation-Theme/#references
+You will be working in storage/.emulationstation/themes
 
 Instead of the example folder names like `nes`, `snes`, and `gb`, use:
 ```bash
